@@ -1,0 +1,29 @@
+sources:
+  - id: arxiv-ai
+    type: arxiv
+    enabled: true
+    label: arXiv AI / ML
+    query: (cat:cs.AI OR cat:cs.LG OR cat:cs.CL OR cat:cs.HC)
+    max_results: 80
+    quality: 1.0
+
+  - id: huggingface-papers
+    type: rss
+    enabled: true
+    label: Hugging Face Papers
+    url: https://huggingface.co/papers/rss
+    quality: 0.9
+
+  - id: lesswrong
+    type: rss
+    enabled: true
+    label: LessWrong
+    url: https://www.lesswrong.com/feed.xml
+    quality: 0.75
+
+  - id: alignmentforum
+    type: rss
+    enabled: true
+    label: Alignment Forum
+    url: https://www.alignmentforum.org/feed.xml
+    quality: 0.8

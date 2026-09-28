@@ -1,0 +1,106 @@
+topics:
+  evaluation:
+    - benchmark
+    - evaluation
+    - eval
+    - judge
+    - grading
+    - verifier
+    - contamination
+    - robustness
+    - reliability
+    - capability elicitation
+  rl:
+    - reinforcement learning
+    - RL
+    - reward model
+    - reward hacking
+    - RLHF
+    - RLAIF
+    - policy optimization
+    - environment
+  reasoning:
+    - reasoning
+    - iterative
+    - recursive
+    - search
+    - planning
+    - test-time compute
+    - inference-time
+    - chain of thought
+    - verifier
+  agents:
+    - agent
+    - tool use
+    - tool-use
+    - computer use
+    - web agent
+    - coding agent
+    - multi-agent
+    - autonomy
+  context:
+    - long context
+    - long-context
+    - memory
+    - retrieval
+    - context window
+    - recurrent
+    - infinite context
+  safety:
+    - alignment
+    - AI safety
+    - corrigibility
+    - deception
+    - scheming
+    - oversight
+    - scalable oversight
+    - interpretability
+    - mechanistic
+    - monitoring
+  formal:
+    - theorem proving
+    - formal mathematics
+    - proof search
+    - Lean
+    - Coq
+    - Isabelle
+    - program synthesis
+    - formal verification
+  systems:
+    - inference
+    - serving
+    - quantization
+    - distillation
+    - training systems
+    - optimization
+    - GPU
+    - memory efficiency
+
+rl_eval_generator:
+  - evaluation environment
+  - synthetic task
+  - procedural task generation
+  - adversarial evaluation
+  - environment generation
+  - benchmark generation
+  - reasoning evaluation
+  - agent evaluation
+  - hidden state
+  - deception
+  - epistemic game
+  - level-k
+  - multi-step task
+  - long-horizon
+
+career:
+  - hiring
+  - fellowship
+  - internship
+  - residency
+  - research engineer
+  - research assistant
+  - research scientist
+  - machine learning engineer
+  - AI safety engineer
+  - contractor
+  - paid work
