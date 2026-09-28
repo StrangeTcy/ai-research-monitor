@@ -1,0 +1,48 @@
+name: weekly-ai-research
+lookback_days: 14
+candidate_limit: 120
+sections:
+  important_developments: 5
+  research_leads: 5
+  worth_reading: 3
+  rl_eval_relevance: 4
+  career_relevance: 4
+
+scoring:
+  recency_half_life_days: 5
+  theme_match: 2.0
+  primary_theme_match: 1.5
+  eval_match: 2.5
+  rl_eval_match: 2.5
+  career_match: 1.75
+  source_quality: 1.0
+  novelty: 0.75
+
+profile:
+  summary: >-
+    AI research monitoring focused on evaluation, reinforcement learning,
+    agents, reasoning, long-context systems, interpretability, AI safety,
+    formal and structural reasoning, and engineering techniques that can
+    produce new experimental leverage.
+  primary_themes:
+    - evaluation and benchmarks
+    - reinforcement learning and RL environments
+    - reasoning and iterative systems
+    - agents and tool use
+    - long context and memory
+    - interpretability and mechanistic analysis
+    - AI safety and alignment research
+    - formal reasoning and theorem proving
+    - efficient inference and model systems
+  career_signals:
+    - research engineer
+    - machine learning engineer
+    - AI safety
+    - evaluation engineer
+    - research assistant
+    - research scientist
+    - red teaming
+    - interpretability
+    - reinforcement learning
+    - agent evaluation
+    - paid research
